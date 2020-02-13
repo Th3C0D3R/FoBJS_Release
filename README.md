@@ -39,17 +39,17 @@ Then I can help
 ## Preview
 
 #### Overview
-![Overview](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/Overview.png?raw=true)
+![Overview](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Overview.png?raw=true)
 #### Other Players
-![Other Players](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/Other%20Players.png?raw=true)
+![Other Players](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Other%20Players.png?raw=true)
 #### TaverInfo
-![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/Taverninfo.png?raw=true)
+![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Taverninfo.png?raw=true)
 #### Bots
-![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/Bots.png?raw=true)
+![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Bots.png?raw=true)
 #### Production
-![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/Production.png?raw=true)
+![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Production.png?raw=true)
 #### Manually
-![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/Manually.png?raw=true)
+![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Manually.png?raw=true)
 
 
 ### Donation
