@@ -1,6 +1,8 @@
 
 # Forge of Empires Bot [![Build Status](https://travis-ci.com/Th3C0D3R/FoBJS.svg?token=RwyETmryp2rK95JJsgYq&branch=master)](https://travis-ci.com/Th3C0D3R/FoBJS)
 
+### **[CRITICAL]** High Memory and CPU usage after more than 2h running time
+
 Since some time I worked on a Forge of Empire Bot to interact with the game while doing something other and not looking on production progress and motivate/polish others.
 
 So after looking at the foe-decrypter which decrypt the Adobe Flash version of the game ([foe-decryption](https://github.com/m3talstorm/foe-decryption)) and this Bot ([foe-bot](https://github.com/m3talstorm/foe-bot))
