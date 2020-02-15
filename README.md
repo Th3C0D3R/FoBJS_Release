@@ -1,7 +1,7 @@
 
 # Forge of Empires Bot [![Build Status](https://travis-ci.com/Th3C0D3R/FoBJS.svg?token=RwyETmryp2rK95JJsgYq&branch=master)](https://travis-ci.com/Th3C0D3R/FoBJS)
 
-### **[CRITICAL]** High Memory and CPU usage after more than 2h running time
+### **[CRITICAL]** High CPU coming from updating "Running since" and production timers. In v1.2.0beta both are removed
 
 Since some time I worked on a Forge of Empire Bot to interact with the game while doing something other and not looking on production progress and motivate/polish others.
 
