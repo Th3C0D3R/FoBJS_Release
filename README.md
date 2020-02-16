@@ -44,14 +44,13 @@ Then I can help
 ![Overview](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Overview.png?raw=true)
 #### Other Players
 ![Other Players](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Other%20Players.png?raw=true)
-#### TaverInfo
-![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Taverninfo.png?raw=true)
+#### TaverInfo (image missing -.-)
 #### Bots
-![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Bots.png?raw=true)
+![Bots](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Bots.png?raw=true)
 #### Production
-![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Production.png?raw=true)
+![Production](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Production.png?raw=true)
 #### Manually
-![Taverninfo](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Manually.png?raw=true)
+![Manually](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Manually.png?raw=true)
 
 
 ### Donation
