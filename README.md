@@ -1,7 +1,6 @@
 
 # Forge of Empires Bot [![Build Status](https://travis-ci.com/Th3C0D3R/FoBJS.svg?token=RwyETmryp2rK95JJsgYq&branch=master)](https://travis-ci.com/Th3C0D3R/FoBJS)
 
-### **[CRITICAL]** High CPU coming from updating "Running since" and production timers. In v1.2.0beta both are removed
 
 Since some time I worked on a Forge of Empire Bot to interact with the game while doing something other and not looking on production progress and motivate/polish others.
 
@@ -44,7 +43,8 @@ Then I can help
 ![Overview](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Overview.png?raw=true)
 #### Other Players
 ![Other Players](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Other%20Players.png?raw=true)
-#### TaverInfo (image missing -.-)
+#### TaverInfo
+![Other Players](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Taverninfo.png?raw=true)
 #### Bots
 ![Bots](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Bots.png?raw=true)
 #### Production
@@ -52,6 +52,14 @@ Then I can help
 #### Manually
 ![Manually](https://github.com/Th3C0D3R/FoBJS_Release/blob/master/imgs/Manually.png?raw=true)
 
+## Translation
+
+If the language in your mother tongue is missing.
+Please clone the project, create a new JSON-File with the language code (de -> german, en -> english, fr -> french and so on) and make a Pullrequest with the new one.
+If you dont know how to do it, just open a Issue with the title:
+[TRANSLATE"] [*your language code*]
+and no more text.
+I will contact you back.
 
 ### Donation
 Just to support my work. All donations are going to keep up the server were I test the Bot 24/7.
