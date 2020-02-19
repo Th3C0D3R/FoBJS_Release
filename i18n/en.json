@@ -65,6 +65,9 @@
         "Tavern.Visitable": "Visitable",
         "Tavern.CurrentSittingPlayer": "Sitting Players",
         "Tavern.CannotSitDown": "Cannot visit",
+        "Tavern.Button.Collect": "Taverne einsammeln",
+        "Tavern.Playername": "Spielername",
+        "Tavern.Playerid": "Spieler ID",
         "Bots.Heading": "Current State of all Bots",
         "Bots.ProductionBotName": "Production-Bot",
         "Bots.RecurringQuestBotName": "Recurring-Quest-Bot",
@@ -94,6 +97,10 @@
         "Overlay.StartProdcution": "Starting Productions...",
         "Overlay.CollectProdcution": "Collecting Productions...",
         "Overlay.CancelProdcution": "Canceling Productions...",
-        "Overlay.CollectIncidents": "Collecting Incidents..."
+        "Overlay.CollectIncidents": "Collecting Incidents...",
+        "Overlay.MotivatingClan": "Motivating Members...",
+        "Overlay.MotivatingFriends": "Motivating Friends...",
+        "Overlay.MotivatingNeighbor": "Motivating Neighbors...",
+        "Overlay.VisitingTavern": "Visiting Tavern..."
 	}
 }

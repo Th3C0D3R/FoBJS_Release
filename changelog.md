@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2.3beta
+* Translation: added more translation areas.
+* Production Bot: Now working like expected. After Production finished, the page reloads 2-3 times which I can't prevent because its necessary.
+* Next Bot I implement is the Incident-Bot:
+	* Will have a Setting to customize the minimum incidents which should be availible until the bot collects it
+
 ## v1.2.2beta
 * Production: now shows timer how long its running until finished (CPU usage reduced by 100%)
 * Overview: Executiontime is back in the hood. How long did the Bot run again?
