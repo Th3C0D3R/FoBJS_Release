@@ -2,7 +2,7 @@
 # Forge of Empires Bot [![Build Status](https://travis-ci.com/Th3C0D3R/FoBJS.svg?token=RwyETmryp2rK95JJsgYq&branch=master)](https://travis-ci.com/Th3C0D3R/FoBJS)
 
 
-## CURRENTLY REWORKING PRODUCTIONBOT, CAN TAKE SOME TIME TO MAKE IT FULLY WORKING! STAY TUNED 
+## Sadly, I have currently no time to work on it. As mentioned in 1.2.4beta changes: RL stuff and other projects (FoE-Helper extension)
 
 Since some time I worked on a Forge of Empire Bot to interact with the game while doing something other and not looking on production progress and motivate/polish others.
 
