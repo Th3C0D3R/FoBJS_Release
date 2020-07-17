@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.2.4beta -> v1.2.6beta
+* Fixed Version Number Regex
+
 ## v1.2.3beta
 * Translation: added more translation areas.
 * Production Bot: Now working like expected. After Production finished, the page reloads 2-3 times which I can't prevent because its necessary.
