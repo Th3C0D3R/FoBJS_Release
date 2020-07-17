@@ -15,7 +15,7 @@ Here is my Bot made with the ElectronJs Framework (Javascript, HTML and CSS of c
 
 Its not perfect (most likely because I suck in HTML, CSS and Javascript) but the it is working, its all about the working stuff, right? Right?
 
-## How to use
+## How to use (precompiled)
 
 1. download the Bot from the [release](https://github.com/Th3C0D3R/FoBJS_Release/releases) section.
 There will be a linux (fobjs_linux.rar) and windows (fobjs_windows.rar) version
@@ -27,6 +27,13 @@ There will be a linux (fobjs_linux.rar) and windows (fobjs_windows.rar) version
 6. After that you have to enter the world you want to bot on. just enter the WorldID (de5/en6,etc) or the world name (it will display both and accept both)
 7. The Bot will load and request all data from the server and will prepair the bot.
 8. If everything was successfull loaded, you should see the Overview just like in the pictures below
+
+## How to use ([source](https://github.com/Th3C0D3R/FoBJS/) )
+
+1. Clone Repo,
+2. install all deps using 'npm i'
+3. build exe or run from source
+4. profit
 
 ## Support
 
