@@ -31,8 +31,8 @@ There will be a linux (fobjs_linux.rar) and windows (fobjs_windows.rar) version
 ## How to use ([source](https://github.com/Th3C0D3R/FoBJS/) )
 
 1. Clone Repo,
-2. install all deps using 'npm i'
-3. build exe or run from source
+2. install all deps using 'npm i .'
+3. build exe or run from source (running from source with: "electron ." (the dots are needed)
 4. profit
 
 ## Support
